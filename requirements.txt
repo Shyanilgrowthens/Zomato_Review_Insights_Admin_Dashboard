@@ -1,0 +1,22 @@
+# Backend
+fastapi
+uvicorn
+
+# Scraping
+selenium
+beautifulsoup4
+requests
+
+# NLP & Text Processing
+nltk
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional: Database
+mysql-connector-python
+
+# Utilities
+pydantic
+python-dotenv
