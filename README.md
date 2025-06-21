@@ -30,15 +30,33 @@ This project is focused on extracting, analyzing, and visualizing customer revie
 - **NLP:** NLTK
 - **Visualization:**  Matplotlib and Seaborn
 - **Database (Optional):** MySQL
-### Backend Libraries Used
-
-The scraping and data processing in this phase use the following Python libraries:
-
 
 
 ### Setup Instructions
+Perfect. Here's the final **clean and complete version** of the `Setup Instructions` section for your `README.md`, with all updates and your note clearly integrated:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-org/zomato-review-insights.git
-   cd zomato-review-insights
+---
+
+## 🔧 Setup Instructions
+
+### Accessing the Repository
+
+> **Note:** This is a **private repository**. If you need access:
+>
+> **Please contact the Shyanil**. Access will be granted for cloning and collaboration.
+
+---
+
+### Clone the Repository
+
+Once access is granted, you can simply clone the repository using the HTTPS URL:
+
+```bash
+git clone https://github.com/Shyanilgrowthens/Zomato_Review_Insights_Admin_Dashboard.git
+```
+
+Then navigate to the project directory:
+
+```bash
+cd Zomato_Review_Insights_Admin_Dashboard
+```
